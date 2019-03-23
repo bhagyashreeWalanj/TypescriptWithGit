@@ -4,7 +4,7 @@ function sum(num1: number,  num2: number): number{
 }
 let value=  sum(5,3);
 console.log("result-------->"+value);
-
+ 
 //-----------------------------------------------------
 // return string 
 function sum1(num1,  num2): string{
